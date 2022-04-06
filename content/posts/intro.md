@@ -10,5 +10,5 @@ Desde mi perspectiva la cultura de un profesional del software se basa en :
 - Respeto
 - Confianza
 
-Ademas ..
+Ademas de estos valores tambien se deben considerar otro aspectos 
 
