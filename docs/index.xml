@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://erykzon.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>La cultura de un Desarrolad@r de software</title>
-      <link>https://erykzon.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
-      
-      <guid>https://erykzon.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Desde mi perspectiva la cultura de un profesional del software se basa en :  Honestidad Respeto Confianza  Ademas de estos valores tambien se deben considerar otro aspectos tales como ;  La dedicacion al momento de programar Le enfoque que el Desarrollador le puede dar al codigo , dependiendo hacia que ambito va dirigido este. La fluides en el desarrollo del codigo  Otros factores que influyen en gran medida en un desarrolador son  La calidad de su Hardware El entorno que lo rodea EL ambiente que lo rodea.</description>
-    </item>
-    
-    <item>
       <title>About me</title>
       <link>https://erykzon.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,6 +16,15 @@
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
  Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
  Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+    </item>
+    
+    <item>
+      <title>La cultura de un Desarrolad@r de software</title>
+      <link>https://erykzon.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erykzon.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Desde mi perspectiva la cultura de un profesional del software se basa en :  Honestidad Respeto Confianza  Ademas de estos valores tambien se deben considerar otro aspectos tales como ;  La dedicacion al momento de programar Le enfoque que el Desarrollador le puede dar al codigo , dependiendo hacia que ambito va dirigido este. La fluides en el desarrollo del codigo  Otros factores que influyen en gran medida en un desarrolador son  La calidad de su Hardware El entorno que lo rodea EL ambiente que lo rodea.</description>
     </item>
     
   </channel>
