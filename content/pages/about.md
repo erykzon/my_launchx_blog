@@ -9,13 +9,11 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Me llamo Erick , estoy estudiando _Informatica Administrativa_ y siempre me ha gustado las TIC's
+> me gusta el deporte en general por la pandemeia lo suspendi aunque practiba Crossfit y futbol.
+> disfruto mucho pasar el tiempo con mi familia viendo series o peliculas , tengo una gatitia de nombre Freyja.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Hasta el momento lo que mas me ha gustado de programar es la parte de CSS en Front End y la logica en JS.
+
+**...**
 
