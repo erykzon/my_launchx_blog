@@ -18,7 +18,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ##### Otros factores que influyen en gran medida en un desarrolador son
 - La calidad de su Hardware
 - El entorno que lo rodea
-- EL ambiente que lo rodea.
+- EL ambiente que lo rodea
 
 ...
 
